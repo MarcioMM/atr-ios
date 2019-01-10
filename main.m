@@ -9,8 +9,6 @@
 #import <Foundation/Foundation.h>
 
 @interface Ejemplo : NSObject
-
-- (void)ejemplo1;
 - (void)ejemplo2;
 - (void)ejemplo3;
 
