@@ -10,9 +10,7 @@
 
 @interface Ejemplo : NSObject
 - (void)ejemplo2;
-- (void)ejemplo3;
-
-@end
+- (void)ejemplo3;@end
 
 @implementation Ejemplo
 
